@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Sumati4/github.io/Weather-App",
   "name": "weather",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +10,7 @@
     "axios": "^1.7.2",
     "crypto-browserify": "^3.12.0",
     "dotenv": "^16.4.5",
+    "gh-pages": "^6.1.1",
     "npm": "^10.8.2",
     "os-browserify": "^0.3.0",
     "path-browserify": "^1.0.1",
@@ -23,6 +25,8 @@
     "start": "^5.1.0"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
