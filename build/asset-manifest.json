@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e93fd650.css",
-    "main.js": "/static/js/main.b88b15b4.js",
-    "static/media/city.jpg": "/static/media/city.bec413c4a34b94fe023a.jpg",
-    "static/media/WeatherIcons.gif": "/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
-    "static/media/background.jpg": "/static/media/background.557a9309bec30e5e09e5.jpg",
-    "index.html": "/index.html",
-    "main.e93fd650.css.map": "/static/css/main.e93fd650.css.map",
-    "main.b88b15b4.js.map": "/static/js/main.b88b15b4.js.map"
+    "main.css": "/github.io/Weather-App/static/css/main.453e93e2.css",
+    "main.js": "/github.io/Weather-App/static/js/main.5e72e19a.js",
+    "static/media/city.jpg": "/github.io/Weather-App/static/media/city.bec413c4a34b94fe023a.jpg",
+    "static/media/WeatherIcons.gif": "/github.io/Weather-App/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background.jpg": "/github.io/Weather-App/static/media/background.557a9309bec30e5e09e5.jpg",
+    "index.html": "/github.io/Weather-App/index.html",
+    "main.453e93e2.css.map": "/github.io/Weather-App/static/css/main.453e93e2.css.map",
+    "main.5e72e19a.js.map": "/github.io/Weather-App/static/js/main.5e72e19a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e93fd650.css",
-    "static/js/main.b88b15b4.js"
+    "static/css/main.453e93e2.css",
+    "static/js/main.5e72e19a.js"
   ]
 }
